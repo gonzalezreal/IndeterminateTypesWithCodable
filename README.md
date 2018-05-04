@@ -1,5 +1,5 @@
 # Indeterminate Types with Codable in Swift
-This playground explore two different approaches to decode or encode JSON containing objects whose type is determined by a property.
+This playground explores two different approaches to decode or encode JSON containing objects whose type is determined by a property.
 
 ```json
 {
